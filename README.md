@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @MarluxGitHub
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and Golang
