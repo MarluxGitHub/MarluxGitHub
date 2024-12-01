@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @MarluxGitHub
 - Im Software Developer @ Check24 
-- Currently im trying to get better with Go and Javascript
